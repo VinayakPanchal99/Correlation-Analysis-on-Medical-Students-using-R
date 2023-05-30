@@ -6,3 +6,5 @@ Download this repository and directly run the RMD file on your RStudio. Or you c
 ## Requirements
 + [RStudio](https://posit.co/downloads/)
 + R
+
+Dataset: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
